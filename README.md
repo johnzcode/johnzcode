@@ -1,5 +1,3 @@
-![Fondo](https://raw.githubusercontent.com/johnzcode/johnzcode/main/images/fondo.jpg)
-
 <h2>Hey there! I'm John Aguirre<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width='40'/></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
