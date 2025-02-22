@@ -11,7 +11,7 @@
   ✉️ You can send me an email at <b>johnzcode@gmail.com!</b> I'll try to respond as soon as possible.
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/johnzcode/johnzcode/main/images/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
